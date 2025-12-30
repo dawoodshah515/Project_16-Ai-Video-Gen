@@ -1,0 +1,10 @@
+streamlit==1.24.0
+moviepy==1.0.3
+python-dotenv==1.0.0
+Pillow==10.0.0
+numpy==1.24.3
+imageio==2.31.5
+imageio-ffmpeg==0.4.9
+proglog==0.1.10
+google-generativeai==0.3.2
+groq==0.4.1
